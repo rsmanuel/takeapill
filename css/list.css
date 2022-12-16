@@ -1,0 +1,36 @@
+#list-section {
+    padding: 0 150px;
+}
+
+#list-pills {
+    margin-top: 50px;
+    border: 2px solid #00C2CB;
+    border-radius: 10px;
+}
+
+#category-menu {
+    padding-right: 78px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: scroll;
+    height: 850px;
+    padding: 50px;
+    background-color: #E8FDFF;
+    border-radius: 10px;
+}
+
+#category-menu .top-item-wrapper{
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+
+.top-item-wrapper:hover .top-item{
+    filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    cursor: pointer;
+    transform: scale(1.03);
+    transition-property: transform;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: 350ms;
+}

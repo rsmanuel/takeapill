@@ -1,0 +1,444 @@
+{
+    "pills": [
+        {
+            "id": "1",
+            "name": "Nix, 10 mg/g-60 mL x 1 creme frasco",
+            "category": "Desparasitantes",
+            "price": "16,55",
+            "image_url": "https://www.farmaciahome.pt/uploads/2244986.jpg",
+            "description": "NIX Creme é um agente antiparasitario que contém permetrina a 1% p/p."
+        },
+        {
+            "id": "2",
+            "name": "Pantelmin, 20 mg/mL-30 mL x 1 susp oral medida",
+            "category": "Desparasitantes",
+            "price": "6,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9472407.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado como desparasitante intestinal."
+        },
+        {
+            "id": "3",
+            "name": "Nicorette Menta Fresca, 2 mg x 30 goma",
+            "category": "Antitabagismo",
+            "price": "12,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5905286.jpg&w=300&h=300&f=png",
+            "description": "As gomas para mascar medicamentosas Nicorette libertam nicotina para o seu organismo, proporcionando alívio dos sintomas de privação da nicotina, facilitando a suspensão do hábito tabágico em fumadores motivados a deixar de fumar."
+        },
+        {
+            "id": "4",
+            "name": "Nicotinell Fruit, 2 mg x 24 goma",
+            "category": "Antitabagismo",
+            "price": "11,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5039383.jpg&w=300&h=300&f=png",
+            "description": "Nicotinell Fruit é um medicamento indicado para quem pretende deixar de fumar. Nicotinell Fruit 2 mg contém nicotina que, ao ser libertada lentamente, alivia os sintomas associados à cessação tabágica tais como insónia, irritabilidade, ansiedade e agitação. A nicotina ajuda a reduzir e a resistir ao desejo dos cigarros e, deste modo, ajuda-o a terminar a sua dependência em relação à nicotina. Este medicamento é indicado para fumadores com uma dependência baixa ou moderada (20 cigarros ou menos por dia). Tem sabor a fruta."
+        },
+        {
+            "id": "5",
+            "name": "Tantum Verde, 3 mg/mL-15 mL x 1 sol pulv bucal",
+            "category": "Tosse, Rouquidão e Dores de Garganta",
+            "price": "9,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5242086.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de inflamações da orofaringe. Tantum Verde é uma solução para pulverização bucal com aroma a menta."
+        },
+        {
+            "id": "6",
+            "name": "Toloxim, 100 mg x 6 comp",
+            "category": "Desparasitantes",
+            "price": "4,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9434407.png&w=300&h=300&f=png",
+            "description": "O medicamento Toloxim está indicado no tratamento das infestações por parasitas intestinais"
+        },
+        {
+            "id": "7",
+            "name": "Pursennide, 20 mg x 20 comp rev",
+            "category": "Diarreia, Cólicas e Obstipação",
+            "price": "7,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9998914.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado em casos de obstipação (prisão de ventre)."
+        },
+        {
+            "id": "8",
+            "name": "Mucofalk, 3,25 g x 30 gran sol oral saq",
+            "category": "Diarreia, Cólicas e Obstipação",
+            "price": "20,45",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5423983.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado em casos de obstipação (prisão de ventre)."
+        },
+        {
+            "id": "9",
+            "name": "Rennie Digestif, 680/80 mg x 24 comp mast",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "3,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8259606.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas da azia e enfartamento."
+        },
+        {
+            "id": "10",
+            "name": "Antibiophilus, 250 mg x 20 cáps",
+            "category": "Diarreia, Cólicas e Obstipação",
+            "price": "19,98",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9369223.png&w=300&h=300&f=png",
+            "description": "Antibiophilus Cápsulas é um medicamento anti-diarreico, de origem microbiana utilizado na prevenção das diarreias induzidas por antibióticos e no tratamento sintomático das diarreias de origem não orgânica."
+        },
+        {
+            "id": "11",
+            "name": "Kompensan-S, 340/30 mg x 20 comp mast",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "5,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8491423.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas de azia, enfartamento e acumulação de gases."
+        },
+        {
+            "id": "12",
+            "name": "Gaviscon Duefet, 500/213/325 mg x 12 susp oral saq",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "8,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5490925.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio da azia e indigestão. Gaviscon Duefet encontra-se indicado no alívio da azia e indigestão, que podem ocorrer após as refeições, durante a gravidez ou em doentes com sintomas relacionados com esofagite."
+        },
+        {
+            "id": "13",
+            "name": "Supositórios de Glicerina (F.P.) Adulto, 1970 mg x 12 sup",
+            "category": "Diarreia, Cólicas e Obstipação",
+            "price": "5,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/3856598.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento da obstipação (prisão de ventre)."
+        },
+        {
+            "id": "14",
+            "name": "Paracetamol Generis MG, 500 mg x 20 comp",
+            "category": "Dor, Febre e Inflamação",
+            "price": "1,00",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/2707297.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de dores ligeiras a moderadas e no alívio de sintomas gripais. Paracetamol Generis 500 mg Comprimidos é um analgésico e antifebril indicado no tratamento de dores de cabeça e enxaquecas de intensidade ligeira a moderada, dores de dentes, dores musculares e articulares, dores menstruais, dores de garganta, e sintomas gripais."
+        },
+        {
+            "id": "15",
+            "name": "Ben-U-Ron, 500 mg x 10 sup",
+            "category": "Dor, Febre e Inflamação",
+            "price": "2,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8168526.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de dores ligeiras a moderadas e no alívio de sintomas gripais. Ben-U-Ron é um analgésico e antifebril indicado no tratamento de dores de cabeça e enxaquecas de intensidade ligeira a moderada, dores de dentes, dores musculares e articulares, dores menstruais, dores de garganta, e sintomas gripais."
+        },
+        {
+            "id": "16",
+            "name": "Livetan, 500 mg x 40 comp rev",
+            "category": "Tranquilidade e Problemas do Sono",
+            "price": "14,55",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5730981.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio da tensão nervosa ligeira e dos distúrbios de sono (insónias)."
+        },
+        {
+            "id": "17",
+            "name": "Proton, 20 mg x 14 cáps gastrorresistente",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "7,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/2047397.jpg&w=300&h=300&f=png",
+            "description": "Proton é utilizado para o tratamento de curta duração em adultos da azia, perturbações da digestão, enfartamento, indigestão ácida e hiperacidez ou prevenção destes sintomas quando associados ao consumo de alimentos e bebidas."
+        },
+        {
+            "id": "18",
+            "name": "Ben-U-Ron, 500 mg x 20 comp",
+            "category": "Dor, Febre e Inflamação",
+            "price": "2,40",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/3854585.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de dores ligeiras a moderadas e no alívio de sintomas gripais. Ben-U-Ron é um analgésico e antifebril indicado no tratamento de dores de cabeça e enxaquecas de intensidade ligeira a moderada, dores de dentes, dores musculares e articulares, dores menstruais, dores de garganta, e sintomas gripais."
+        },
+        {
+            "id": "19",
+            "name": "Aspirina 500 mg Granulado, 500 mg x 10 gran",
+            "category": "Dor, Febre e Inflamação",
+            "price": "4,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5273289.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado em caso de febre e dores de intensidade ligeira a moderada."
+        },
+        {
+            "id": "20",
+            "name": "Rennie Digestif, 680/80 mg x 96 comp mast",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "8,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8259622.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas da azia e enfartamento."
+        },
+        {
+            "id": "21",
+            "name": "Mebocaína Anti-Inflam, 1,2/3 mg x 20 comp chupar",
+            "category": "Dor, Febre e Inflamação",
+            "price": "8,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5407382.jpg&w=300&h=300&f=png",
+            "description": ""
+        },
+        {
+            "id": "22",
+            "name": "Lasa, 10 mg x 12 comp",
+            "category": " Enjoo, Azia e Má disposição",
+            "price": "6,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/3241593.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de sintomas de azia, como a sensação de ardor e queimadura no estômago."
+        },
+        {
+            "id": "23",
+            "name": "Panadol, 500 mg x 16 comp eferv",
+            "category": "Dor, Febre e Inflamação",
+            "price": "4,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5771365-panadol.jpg&w=300&h=300&f=png",
+            "description": "Panadol Efervescente é um analgésico e antifebril indicado no tratamento de dores de cabeça e enxaquecas de intensidade ligeira a moderada, dores de dentes, dores musculares e articulares, dores menstruais, dores de garganta, e sintomas gripais."
+        },
+        {
+            "id": "24",
+            "name": "Dormidina, 12,5 mg x 14 comp rev",
+            "category": "Tranquilidade e Problemas do Sono",
+            "price": "10,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5431705.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado na dificuldade temporária em adormecer. Dormidina é eficaz na redução do tempo de início do sono assim como no aumento da duração do mesmo."
+        },
+        {
+            "id": "25",
+            "name": "Leite Magnesia Phillips, 83 mg/mL-200mL x 1 susp oral mL",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "10,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/2000990.jpg&w=300&h=300&f=png",
+            "description": "O Leite de Magnésia Phillips é um laxante constituído por hidróxido de magnésio e está indicado na prisão de ventre crónica e em todas as formas de obstipação intestinal. Não provoca cólicas nem flatulência. Numa dose inferior, pode ser utilizado também como antiácido, pois neutraliza o excesso de ácido no estômago, ajudando nos casos de refluxo gastro-esofágico e hiperacidez tais como: azia, enfartamento e indigestão."
+        },
+        {
+            "id": "26",
+            "name": "Dolostop Duo, 150/500 mg x 16 comp rev",
+            "category": "Dor, Febre e Inflamação",
+            "price": "5,60",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5752308-dolostop-duo.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado para tratar dores de intensidade ligeira a moderada (dor reumática e muscular, dor de costas, dor de cabeça, dor de dentes e dor menstrual."
+        },
+        {
+            "id": "27",
+            "name": "Neurexan, não aplicável Recipiente multidose 50 Unidade(s) Comp",
+            "category": "Tranquilidade e Problemas do Sono",
+            "price": "16,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5817978.png&w=300&h=300&f=png",
+            "description": ""
+        },
+        {
+            "id": "28",
+            "name": "Viabom, 50 mg x 10 comp",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "4,30",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9877522.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado na prevenção e tratamento de náuseas, vómitos e/ou vertigens associados ao enjoo por movimento (enjoo provocado por viagens de carro, barco e outras).        "
+        },
+        {
+            "id": "29",
+            "name": "Aspegic , 400 mg + 100 mg Blister 24 Unidade(s) Comp revest pelic, 400 mg + 100 mg x 24 comp rev",
+            "category": "Dor, Febre e Inflamação",
+            "price": "7,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5797808.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de curta duração da dor aguda moderada como dor de cabeça e dor de dentes."
+        },
+        {
+            "id": "30",
+            "name": "Enjomin, 100 mg x 10 comp",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "3,65",
+            "image_url": "https://www.farmaciahome.pt/uploads/9905018.png",
+            "description": "Medicamento indicado na prevenção e tratamento de náuseas, vómitos e/ou vertigens associados ao enjoo por movimento (enjoo provocado por viagens de carro, barco e outras).        "
+        },
+        {
+            "id": "31",
+            "name": "Antigrippine Trieffect Tosse , 500 mg + 6.1 mg + 100 mg Blister 16 Unidade(s) Caps, 500 mg + 6.1 mg + 100 mg x 16 cáps",
+            "category": "Dor, Febre e Inflamação",
+            "price": "8,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5818711.png&w=300&h=300&f=pngy",
+            "description": "Alívio rápido dos 7 sintomas associados a constipações e gripes, incluindo: Dores leves a moderadas, Dor de cabeça, Congestão nasal, Dor de garganta, Arrepios,  Febre,Alívio da tosse produtiva."
+        },
+        {
+            "id": "32",
+            "name": "Alka-Seltzer, 2081,8 mg x 20 comp eferv",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "6,70",
+            "image_url": "https://www.farmaciahome.pt/uploads/5130844.jpg",
+            "description": "Medicamento indicado no alívio da indigestão e azia (sensação de ardor/ queimadura no estômago).        "
+        },
+        {
+            "id": "33",
+            "name": "Kompensan-S, 340/30 mg x 20 comp mast",
+            "category": "",
+            "price": "5,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8491423.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas de azia, enfartamento e acumulação de gases."
+        },
+        {
+            "id": "34",
+            "name": "Allergodil, 0,5 mg/mL-6 mL x 1 sol col",
+            "category": "Cuidado dos Olhos e dos Ouvidos",
+            "price": "7,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/2801884.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento da conjuntivite alérgica. Allergodil é um antialérgico indicado no tratamento da conjuntivite alérgica sazonal, ou seja, que ocorre normalmente na primavera devido aos pólenes, ou na conjuntivite alérgica perene, ou seja, que ocorre durante todo o ano sempre que há exposição aos alergenos."
+        },
+        {
+            "id": "35",
+            "name": "Riopan, 800 mg x 50 comp",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "7,20",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/8194852.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas de azia (ardor e acidez), devidos à produção excessiva de ácido no estômago.Riopan é um antiácido e antiulceroso, indicado no alívio de perturbações gastrointestinais, tais como azia, pirose (sensação de queimadura no estômago) e enfartamento, devidos à produção excessiva de ácido no estômago."
+        },
+        {
+            "id": "36",
+            "name": "Control Nature Easy Way Preservativos x10",
+            "category": "Preservativos",
+            "price": "9,90",
+            "image_url": "https://www.asuafarmaciaonline.pt/thumb/phpThumb.php?src=../uploads/7073916-control-nature-easy-way-preservativos-x10.png&w=300&h=300&f=png",
+            "description": "O preservativo mais vendido da gama Control torna-se ainda mais fácil de colocar, graças a uma aba delicada que permite desenrolá-lo em com um único gesto e indica a direção certa de utilização. Dedicado a quem não quer pôr em pausa os momentos de prazer."
+        },
+        {
+            "id": "37",
+            "name": "Telfast 120, 120 mg x 20 comp rev",
+            "category": "Descongestionantes",
+            "price": "9,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/2594984.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas associados à rinite alérgica sazonal. Telfast 120 é um antialérgico indicado no alívio dos sintomas associados à rinite alérgica, tais como espirros, comichão, corrimento e congestão nasal (nariz entupido e a pingar), comichão no nariz, olhos vermelhos e lacrimejantes."
+        },
+        {
+            "id": "38",
+            "name": "Rinocalm MG, 10 mg x 20 comp rev",
+            "category": "Descongestionantes,Cuidado dos Olhos e dos Ouvidos",
+            "price": "5,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5737465-rinocalm.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio dos sintomas nasais e oculares da rinite alérgica e dos sintomas de urticária."
+        },
+        {
+            "id": "39",
+            "name": "Control Non Stop Xtra Lines Preservativos X12",
+            "category": "Preservativos",
+            "price": "9,90",
+            "image_url": "https://www.asuafarmaciaonline.pt/thumb/phpThumb.php?src=../uploads/7249961-control-non-stop-xtra-lines-preservativos-x12.jpg&w=300&h=300&f=png",
+            "description": "Com Non Stop Extra Lines, o prazer de estar junto é mais intenso e dura mais, graças aos pontos e linhas em relevo e à adição de benzocaína."
+        },
+        {
+            "id": "40",
+            "name": "Hoggar , 25 mg Blister 20 Unidade(s) Comp orodisp, 25 mg x 20 comp orodisp",
+            "category": "Tranquilidade e Problemas do Sono",
+            "price": "9,95",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5780028-hoggar.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado para tratamento sintomático de curta duração de insónias ocasionais em adultos."
+        },
+        {
+            "id": "41",
+            "name": "Control Nature XL Preservativos x12",
+            "category": "Preservativos",
+            "price": "9,90",
+            "image_url": "https://www.asuafarmaciaonline.pt/thumb/phpThumb.php?src=../uploads/7086157-control-nature-xl-preservativos-x12.png&w=300&h=300&f=png",
+            "description": "É um preservativo mais largo e comprido que o padrão, apresentando ainda uma forma anatómica especial que o torna muito mais cómodo de colocar e usar. Ao proporcionar uma melhor adaptação anatómica, aumenta a sensibilidade durante a relação."
+        },
+        {
+            "id": "42",
+            "name": "Neurexan , não aplicável Recipiente multidose 50 Unidade(s) Comp",
+            "category": "Tranquilidade e Problemas do Sono",
+            "price": "16,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5817978.png&w=300&h=300&f=png",
+            "description": ""
+        },
+        {
+            "id": "43",
+            "name": "Momendol, 200 mg x 12 comp rev",
+            "category": "Articulações, Músculo e Ossos",
+            "price": "4,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/4031381.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento de dores ligeiras a moderadas e no alívio da febre. Momendol está indicado no tratamento a curto prazo de dores ligeiras a moderadas, tais como dores de músculos e articulações, cabeça, dentes e dores menstruais. Também pode ser útil no alívio da febre."
+        },
+        {
+            "id": "44",
+            "name": "Control Peach Preservativos X6",
+            "category": "Preservativos",
+            "price": "5,90",
+            "image_url": "https://www.asuafarmaciaonline.pt/thumb/phpThumb.php?src=../uploads/6644989-control-peach-preservativos-x6.png&w=300&h=300&f=png",
+            "description": "Preservativos ideias para adicionar um toque de fantasia aos momentos de prazer. Preservativos ideias para adicionar um toque de fantasia aos momentos de prazer, com o estímulo afrodisíaco do pêssego."
+        },
+        {
+            "id": "45",
+            "name": "Trifene, 200 mg x 20 comp rev",
+            "category": "Articulações, Músculo e Ossos",
+            "price": "4,50",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9758508.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado no tratamento da febre e dores de intensidade ligeira a moderada. Trifene 200 é um medicamento anti-inflamatório, analgésico e antifebril indicado no tratamento da febre (com duração inferior a 3 dias) e na dor ligeira a moderada, como dor de dentes, dor de cabeça, dores musculares e nas dores menstruais."
+        },
+        {
+            "id": "46",
+            "name": "Durex Invisible Extra Lubrificado Preservativos x12",
+            "category": "Preservativos",
+            "price": "12,95",
+            "image_url": "https://www.asuafarmaciaonline.pt/thumb/phpThumb.php?src=../uploads/6973735-durex-invisible-extra-lubrificado-preservativos-x12.png&w=300&h=300&f=png",
+            "description": "É o mais fino já criado por preservativos Durex. Maximiza a sensibilidade, proporcionando um elevado grau de segurança e proteção. Além de ser extra fino, vem com lubrificante extra para uma experiência mais agradável."
+        },
+        {
+            "id": "47",
+            "name": "Glucosamina Glusina MG, 1500 mg x 60 pó sol oral saq",
+            "category": "Articulações, Músculo e Ossos",
+            "price": "13,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5026026-2.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado para o alívio dos sintomas da osteoartrose ligeira a moderada do joelho."
+        },
+        {
+            "id": "48",
+            "name": "Aspirina Microactive, 500 mg x 20 comp rev",
+            "category": "Dor, Febre e Inflamação",
+            "price": "5,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5588207.jpg&w=300&h=300&f=png",
+            "description": "Medicamento indicado em caso de febre e dores de intensidade ligeira a moderada."
+        },
+        {
+            "id": "49",
+            "name": "Reumon Gel, 50 mg/g-100 g x 1 gel bisnaga",
+            "category": "Articulações, Músculo e Ossos",
+            "price": "11,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/9418004.png&w=300&h=300&f=png",
+            "description": "Medicamento indicado no alívio das dores musculares ligeiras ou moderadas e das articulações. Reumon Gel é um anti-inflamatório indicado no alívio de situações dolorosas, tais como dores musculares e das articulações, tendinites, entorses, distensões e outras lesões associadas a traumatismos desportivos."
+        },
+        {
+            "id": "50",
+            "name": "Compressas de Tecido Não Tecido",
+            "category": "Ligaduras e Compressas",
+            "price": "1,69",
+            "image_url": "https://wells.pt/dw/image/v2/BFLP_PRD/on/demandware.static/-/Sites-wells-master-catalog/default/dw88182746/images/wells/508/5082000-COMPRESSAS-COMPRESSAS-TECIDO-NAO-TECIDO-WELLS-P-01.jpg?sw=313&sh=313&sm=fit",
+            "description": "Mechas em não-tecido não-esterilizadas, utilizados no revestimento primário de feridas sujas ou exsudativas, utilizados tanto em hospitais como em departamentos com pacientes externos."
+        },
+        {
+            "id": "51",
+            "name": "Voltaren Emulgelex , 23.2 mg/g Bisnaga 100 g Gel, 23.2 mg/g x 1 gel bisnaga",
+            "category": "Dor, Febre e Inflamação",
+            "price": "15,90",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5781711-voltaren-emulgelex-23.2-mg-g-bisnaga-100g-gel.jpg&w=300&h=300&f=png",
+            "description": "Voltaren Emulgelex é indicado no alívio de dores musculares ligeiras a moderadas e na inflamação dos tendões, ligamentos, músculos e articulações (por exemplo, em caso de entorses e luxações). Nos adultos pode ser indicado no alívio de dores associadas à osteoartrose."
+        },
+        {
+            "id": "52",
+            "name": "Ib-u-ron, 400 mg x 20 comp rev",
+            "category": "Articulações, Músculo e Ossos",
+            "price": "5,99",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5450838.jpg&w=300&h=300&f=png",
+            "description": "Ib-u-ron é um medicamento anti-inflamatório, analgésico e antifebril indicado no tratamento da febre (com duração inferior a 3 dias) e na dor ligeira a moderada, como dor de dentes, dor de cabeça, dores musculares e nas dores menstruais."
+        },
+        {
+            "id": "53",
+            "name": "Cadeira de Rodas",
+            "category": "Cadeira de rodas",
+            "price": "119",
+            "image_url": "https://www.tuningblog.eu/wp-content/uploads/2022/03/Rollstuhl-Tuning-Rolli-Elektrorollstuhl-Umbau.jpg",
+            "description": "Cadeira para transferências, subir e descer escadas. Inclui cinto, rodas e pegas de ambos os lados."
+        },
+        {
+            "id": "54",
+            "name": "Vomidrine Direct, 50 mg x 10 comp sl",
+            "category": "Enjoo, Azia e Má disposição",
+            "price": "6,15",
+            "image_url": "https://www.farmaciahome.pt/thumb/phpThumb.php?src=../uploads/5668462.png&w=300&h=300&f=png",
+            "description": "O Vomidrine Direct pertence ao grupo de medicamentos conhecido como agentes anti-histamínicos. O Vomidrine Direct é utilizado para prevenir e tratar enjoos de movimento. Indicado para adultos e crianças com mais de 12 anos."
+        },
+        {
+            "id": "55",
+            "name": "Control Gel Lub Nature 75ml",
+            "category": "Preservativos",
+            "price": "10,50",
+            "image_url": "https://farmacialinaida.s3.amazonaws.com/a062o00001nxGRQ20200707153153_big.jpg",
+            "description": "Gel lubrificante nature. Desenvolvido para facilitar a penetração durante a relação sexual, permitindo assim maior prazer e intensidade. À base de água, respeita a fisiologia natural, não é oleoso e é fácil de remover com água."
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+#top-sales{
+    background-color: #E8FDFF;
+    height: max-content;
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+
+#top-sales h1{
+    text-align: center;
+    color: #FD7578;
+    font-size: 45px;
+    margin: 40px 0 40px 0;
+}
+
+#top-items{
+    gap: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 150px;
+}
+
+.top-item {
+    background-color: white;
+    min-width: 215px;
+    max-width: 215px;
+    min-height: 435px;
+    max-height: 435px;
+    text-align: center;
+    border: 2px solid #00C2CB;
+    padding: 15px 45px;
+    border-radius: 20px;
+}
+
+.truncate {
+    overflow: hidden;
+        text-overflow: ellipsis;
+white-space: nowrap;
+}
+
+.top-item:hover{
+    filter: drop-shadow(0 10px 8px rgb(0 0 0 / 0.04)) drop-shadow(0 4px 3px rgb(0 0 0 / 0.1));
+    cursor: pointer;
+    transform: scale(1.03);
+    transition-property: transform;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+transition-duration: 350ms;
+}
+
+.top-img{
+width: 150px; 
+margin-left: auto;
+margin-right: auto;
+}
+
+.top-img-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 267px;
+    max-height: 267px;
+}
+
+.top-name{
+    min-height: 66px;
+    max-height: 66px;
+    display: block;
+    font-weight: 600;
+    font-size:large;
+    padding-bottom: 10px;
+}
+
+.top-price{
+    font-weight: 500;
+    color: #FD7578;
+    font-size: medium;
+}
+
+.top-info{
+    padding-bottom: 20px;
+}

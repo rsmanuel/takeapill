@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>A_Variações</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+        <link rel="shortcut icon" href="./img/favicon/pill_on_pallet.png" type="image/x-icon">
+        <link rel="stylesheet" href="./css/main.css">
+        <script type="module" src="./js/main.js"></script>
+    </head>
+
+<body>
+    <nav class="nav" id="nav-bar">
+        <img src="./img/logo/logo-novo.png" id="main-logo">
+        <div id="nav-buttons">
+            </div>
+            <button class="btn btn-default" id="signin-btn">Aderir</button>
+        </div>
+    </nav>
+    <section id="landing-section">
+        <div id="landing-text">
+            <h2>Toma um comprimido</h2>
+            <span>Que isso passa...</span>
+        </div>
+    </section>
+
+    <section id="top-sales">
+        <h1>Best Sellers</h1> 
+        <div id="top-items"> 
+            <div id="pill-100" class="top-item">
+                <div class="top-img-wrapper">
+                    <img src="./img/pills/pill_15.png" class="top-img">
+                </div>
+                <div class="top-info">
+                        <span class="top-name">Ben-U-Ron, 500 mg x 10 sup</span>
+                    <span class="top-price">€ 2,90</span>
+                </div>
+                <button class="btn add-btn">Adicionar ao Carrinho</button>
+            </div>
+            <div id="pill-101" class="top-item">
+                <div class="top-img-wrapper">
+                    <img src="./img/pills/pill_20.png" class="top-img">
+                </div>
+                <div class="top-info"> 
+                        <span class="top-name">Rennie Digestif, 680/80 mg x 96 comp mast</span>
+                    <span class="top-price">€ 8,99</span>
+                </div>
+                <button class="btn add-btn">Adicionar ao Carrinho</button>
+            </div>
+            <div id="pill-102" class="top-item">
+                <div class="top-img-wrapper">
+                    <img src="./img/pills/pill_41.png" class="top-img">
+                </div>
+                <div class="top-info">
+                        <span class="top-name">Control Nature XL Preservativos x12</span>
+                    <span class="top-price">€ 9,90</span>
+                </div>
+                <button class="btn add-btn">Adicionar ao Carrinho</button>
+            </div>
+            <div id="pill-103" class="top-item">
+                <div class="top-img-wrapper">
+                    <img src="./img/pills/pill_54.png" class="top-img">
+                </div>
+                <div class="top-info"> 
+                        <span class="top-name">Control Gel Lub Nature 75ml</span>  
+                    <span class="top-price">€ 10,50</span>
+                </div>
+                <button class="btn add-btn">Adicionar ao Carrinho</button>
+            </div>
+        </div>
+    </section>
+    <!-- <section id="list-section">
+        <div id="list-pills">
+            <div id="category-menu">
+            </div>
+        </div>
+    </section> -->
+    <section id="list-section" style="margin-bottom: 50px;">
+        <div id="list-pills">
+            <!-- <div id="navigate-menu" ></div> -->
+            <div id="category-menu" name="categories"></div>
+        </div>
+    </section>
+
+    
+    <div id="pharmacyModal" class="modal modal-invisible"></div>
+
+</body>
+</html>

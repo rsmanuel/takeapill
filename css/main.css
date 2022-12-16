@@ -1,0 +1,16 @@
+@import "nav.css";
+@import "buttons.css";
+@import "landing.css";
+@import "top-sales.css";
+@import "list.css";
+@import "modal.css";
+
+* {
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body {
+    margin: 0;
+}

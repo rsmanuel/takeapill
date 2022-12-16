@@ -1,0 +1,27 @@
+#landing-section {
+    height: 630px;
+    background-image: url('../img/landing-bg.png');
+    position: relative;
+}
+
+#landing-text {
+    border-radius: 0px 20px 20px 0px;
+    padding: 20px 25px;
+    color: black;
+    background-color: #E8FDFF;
+    position: absolute;
+    top: 50%;
+    width: max-content;
+}
+
+#landing-text h2 {
+    color: #FD7578;
+    font-size: 55px;
+    margin: 0;
+}
+
+#landing-text span {
+    color: #1E2364;
+    font-size: 35px;
+}
+

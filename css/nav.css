@@ -1,0 +1,25 @@
+#nav-bar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+    height: 110px;
+}
+
+#nav-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 80%;
+}
+
+#main-logo {
+    width: 356px;
+    height: 76px;
+}
+
+#toggle-modes{
+    display: flex;
+    justify-content: space-between;
+    width: 400px;
+}
