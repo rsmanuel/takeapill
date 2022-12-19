@@ -1,4 +1,4 @@
-const API_URL = "http://192.168.1.166:3000/pills"
+const API_URL = "http://localhost:3000/pills"
 
 let pills = null;
 
